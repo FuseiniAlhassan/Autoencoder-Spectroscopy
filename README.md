@@ -11,4 +11,4 @@
 ![](autoencoder_spectroscopy/outputs/plots/denoising_results.png)
 
 
-![](autoencoder_spectroscopy/outputs/models/autoencoder_summary.txt)
+![](autoencoder_spectroscopy/outputs/plots/training_loss.png)
